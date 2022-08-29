@@ -1,3 +1,3 @@
 # VERSAO
 ### Um exemplo do uso do GIT
-*Autor:* __NioRausch__
+**Autor:** __NioRausch__
